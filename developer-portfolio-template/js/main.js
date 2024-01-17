@@ -55,6 +55,18 @@
             }
         }
     });
+
+    // Smooth scrolling on the buttons
+    $(".btn-scroll").on('click', function (event) {
+        if (this.hash !== "") {
+            event.preventDefault();
+            
+            $('html, body').animate({
+                scrollTop: $(this.hash).offset().top - 45
+            }, 1500, 'easeInOutExpo');
+        }
+    });
+    
     
     
     // Typed Initiate

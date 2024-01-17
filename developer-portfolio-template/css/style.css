@@ -990,6 +990,7 @@ a:focus {
     position: relative;
     margin-bottom: 30px;
     background: #ffffff;
+    height: 100%;
 }
 
 .price .featured-item {
@@ -1002,6 +1003,10 @@ a:focus {
 .price .price-footer {
     position: relative;
     text-align: center;
+}
+
+.price .price-body .line-through {
+    text-decoration: line-through;
 }
 
 .price .price-header {
