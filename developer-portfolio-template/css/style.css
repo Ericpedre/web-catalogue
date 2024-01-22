@@ -392,12 +392,19 @@ a:focus {
 }
 
 @media (max-width: 575.98px) {
+
+    .hero {
+        height: 75vh;
+        display: flex;
+        align-items: center;
+    }
+
     .hero .hero-text p {
-        font-size: 16px;
+        font-size: 30px;
     }
     
     .hero .hero-text h1 {
-        font-size: 30px;
+        font-size: 40px;
     }
     
     .hero .hero-text h2 {
