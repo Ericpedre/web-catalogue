@@ -134,7 +134,7 @@
     // on click in the web-3 id element
     $("#web-3").on('click', function () {
         // go to the html page
-        window.location.href = "./webs/food-website-template/index.html";
+        window.location.href = "./webs/templatemo_515_eatery/index.html";
     });
 
     // on click in the web-4 id element
@@ -148,6 +148,86 @@
         // go to the html page
         window.location.href = "./webs/Italian-Cuisine/index.html";
     });
+
+    // on click in the web-6 id element
+    $("#web-6").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/drinker/index.html";
+    });
+
+    // on click in the web-7 id element
+    $("#web-7").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/foodhut/public_html/index.html";
+    });
+
+    // on click in the web-8 id element
+    $("#web-8").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/fruitkha-1.0.0/index.html";
+    });
+
+    // on click in the web-9 id element
+    $("#web-9").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/pato-master/index.html";
+    });
+
+    // on click in the web-10 id element
+    $("#web-10").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/templatemo_466_cafe_house/index.html";
+    });
+
+    // on click in the web-11 id element
+    $("#web-11").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/templatemo_558_klassy_cafe/index.html";
+    });
+
+    // on click in the web-12 id element
+    $("#web-12").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/yamifood/index.html";
+    });
+
+    // on click in the web-13 id element
+    $("#web-13").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/Yummy/index.html";
+    });
+
+    // on click in the web-14 id element
+    $("#web-14").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/feane-1.0.0/index.html";
+    });
+
+    // on click in the web-15 id element
+    $("#web-15").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/eatery-new-master/index.html";
+    });
+
+    // on click in the web-16 id element
+    $("#web-16").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/Restaurantly/index.html";
+    });
+
+    // on click in the web-17 id element
+    $("#web-17").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/Delicious/index.html";
+    });
+
+    // on click in the web-18 id element
+    $("#web-18").on('click', function () {
+        // go to the html page
+        window.location.href = "./webs/spicyo/index.html";
+    });
+
+
 
     
 })(jQuery);
